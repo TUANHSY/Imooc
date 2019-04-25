@@ -1,0 +1,24 @@
+java中的try catch finally 异常throwable
+1.try catch
+try{
+    //抛出异常的一些方法
+}catch (Exception e){
+    //处理异常的代码
+}
+
+1.1多重catch
+   就近 从子到父
+
+2.try catch finally
+finally{
+    //最终将要执行的代码
+}
+
+java 中的异常抛出
+throw 将产生的
+throws 声明要抛出何种类型的异常（声明）
+    public void 方法名（参数）{
+        throws异常列表{
+            //调用会抛出异常的方法或者throw new Exception();
+        }
+    }
