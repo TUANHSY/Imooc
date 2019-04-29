@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a271b7f-9976-453a-9045-524c963ed5ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/three/string/learn/method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/three/string/learn/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/DX.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/DX.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/three/collectionmap/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/three/collectionmap/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/three/collectionmap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/three/string/exercise/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/imooc/three/string/learn/method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imooc/three/string/learn/method.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imooc/three/trycatch/Learn/TrayCatchTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,23 +39,23 @@
     <session id="1325646572">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="82" />
+          <entry key="java" value="90" />
           <entry key="text" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="82" />
+          <entry key="JAVA" value="90" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -61,14 +63,14 @@
         <counts>
           <entry key="dummy" value="20" />
           <entry key="ft" value="8" />
-          <entry key="java" value="7355" />
+          <entry key="java" value="8444" />
           <entry key="text" value="314" />
           <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7355" />
+          <entry key="JAVA" value="8444" />
           <entry key="PLAIN_TEXT" value="353" />
           <entry key="VTL" value="8" />
         </counts>
@@ -80,11 +82,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/imooc/three/string/learn/method.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/Course.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            <state relative-caret-position="184">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/ListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,16 +127,13 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/imooc/Initial.java" />
-        <option value="$PROJECT_DIR$/src/com/imooc/animal/Dog.java" />
-        <option value="$PROJECT_DIR$/src/com/imooc/animal/Animal.java" />
-        <option value="$PROJECT_DIR$/src/com/imooc/polymorphism/Dog.java" />
-        <option value="$PROJECT_DIR$/src/com/imooc/polymorphism/Initial.java" />
-        <option value="$PROJECT_DIR$/src/com/imooc/polymorphism/Animal.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/polymorphism/learn/Animal.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/polymorphism/exercise/Ship.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/polymorphism/exercise/Plan.java" />
@@ -155,8 +177,14 @@
         <option value="$PROJECT_DIR$/src/com/imooc/three/trycatch/learn/chain/DrunkException.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/three/trycatch/learn/chain/ChainTest.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/three/string/learn/test.java" />
-        <option value="$PROJECT_DIR$/src/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/three/string/learn/method.java" />
+        <option value="$PROJECT_DIR$/src/com/imooc/three/string/exercise/test.java" />
+        <option value="$PROJECT_DIR$/src/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/com/imooc/three/collection_map/Course.java" />
+        <option value="$PROJECT_DIR$/src/com/imooc/three/collectionmap/student.java" />
+        <option value="$PROJECT_DIR$/src/com/imooc/three/collectionmap/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/imooc/three/collectionmap/Course.java" />
+        <option value="$PROJECT_DIR$/src/com/imooc/three/collectionmap/ListTest.java" />
       </list>
     </option>
   </component>
@@ -173,9 +201,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-324" />
-    <option name="width" value="1146" />
-    <option name="height" value="1106" />
+    <option name="x" value="-68" />
+    <option name="y" value="-23" />
+    <option name="width" value="1526" />
+    <option name="height" value="807" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -199,17 +228,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Imooc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,16 +259,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="imooc" type="462c0819:PsiDirectoryNode" />
               <item name="three" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
+              <item name="collectionmap" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
             <path>
-              <item name="Imooc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Imooc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc" type="462c0819:PsiDirectoryNode" />
-              <item name="three" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="Imooc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -266,7 +286,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="imooc" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556280377767" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556530165391" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../idea_java_learn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -294,39 +314,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.method">
-    <configuration name="ChainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.imooc.three.trycatch.learn.chain.ChainTest" />
+  <component name="RunManager" selected="Application.ListTest">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="Imooc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imooc.three.trycatch.learn.chain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.imooc.two.exercise.Main" />
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.three.collectionmap.ListTest" />
       <module name="Imooc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.imooc.two.exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TrayCatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.imooc.three.trycatch.learn.TrayCatchTest" />
-      <module name="Imooc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imooc.three.trycatch.learn.*" />
+          <option name="PATTERN" value="com.imooc.three.collectionmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,6 +341,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.imooc.three.string.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.three.string.exercise.test" />
+      <module name="Imooc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.three.string.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,19 +375,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.TrayCatchTest" />
-      <item itemvalue="Application.ChainTest" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.method" />
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.test (1)" />
+      <item itemvalue="Application.ListTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.test (1)" />
         <item itemvalue="Application.method" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.ChainTest" />
-        <item itemvalue="Application.TrayCatchTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +405,8 @@
       <workItem from="1555770108358" duration="129000" />
       <workItem from="1555802899025" duration="53276000" />
       <workItem from="1556068741331" duration="12366000" />
-      <workItem from="1556237733940" duration="9068000" />
+      <workItem from="1556237733940" duration="9341000" />
+      <workItem from="1556326973635" duration="15047000" />
     </task>
     <task id="LOCAL-00001" summary="1111111111111111111">
       <created>1556198002020</created>
@@ -407,11 +422,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556263161378</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1111111111111111111">
+      <created>1556280730401</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556280730401</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82231000" />
+    <option name="totallyTimeSpent" value="97551000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -424,22 +446,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" weight="0.32983023" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.17138238" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.130962" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.2497979" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.26989618" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50059456" side_tool="true" weight="0.38172042" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.35695538" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5012126" side_tool="true" weight="0.2768166" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49940547" visible="true" weight="0.2768166" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4987874" visible="true" weight="0.29930797" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -456,6 +477,37 @@
       <window_info anchor="right" id="Ant Build" order="8" weight="0.2497979" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32983023" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.3045326" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.2497979" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.26989618" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5012126" side_tool="true" weight="0.2768166" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4987874" visible="true" weight="0.3051724" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3298791" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32871974" />
+      <window_info anchor="right" x="0" y="0" width="176" height="527" id="Documentation" order="0" side_tool="true" weight="0.32900944" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32983023" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32983023" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.2497979" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -737,10 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -758,17 +806,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/src/com/imooc/three/string/learn/method.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        <state relative-caret-position="392">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/imooc/three/string/learn/method.java">
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        <state relative-caret-position="184">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/imooc/three/string/exercise/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="24" column="64" lean-forward="true" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

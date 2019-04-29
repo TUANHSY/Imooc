@@ -8,6 +8,7 @@ package com.imooc.three.string.learn;
 public class method {
     public static void main(String[] args) {
         String s1 = "duanzhaohuishixiaogou.text";
+        StringBuffer s2 = new StringBuffer("aaaaasfdhhhhffdaaweaagreg");
         //获取字符串长度
         int l = s1.length();
         //查找字符第一次出现的位置'a'
@@ -18,6 +19,7 @@ public class method {
         int f3 = s1.indexOf(f1,'.');
         //
         System.out.println(l+" 000 "+f1+" 000  "+f2+"  000 "+f3);
+        s2.append(5);
     }
     //获取字符串长度
     //查找字符第一次出现的位置'a'
