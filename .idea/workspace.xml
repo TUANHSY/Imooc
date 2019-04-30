@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9a271b7f-9976-453a-9045-524c963ed5ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/three/collectionmap/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/three/collectionmap/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/three/collectionmap/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/three/string/exercise/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/three/string/learn/method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imooc/three/string/learn/method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/imooc/three/collectionmap/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imooc/three/collectionmap/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/imooc/three/collectionmap/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imooc/three/collectionmap/ListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imooc/three/trycatch/Learn/TrayCatchTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,23 +38,25 @@
     <session id="1325646572">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="90" />
+          <entry key="class" value="3" />
+          <entry key="java" value="95" />
           <entry key="text" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="90" />
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="95" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -63,14 +64,14 @@
         <counts>
           <entry key="dummy" value="20" />
           <entry key="ft" value="8" />
-          <entry key="java" value="8444" />
+          <entry key="java" value="8865" />
           <entry key="text" value="314" />
           <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8444" />
+          <entry key="JAVA" value="8865" />
           <entry key="PLAIN_TEXT" value="353" />
           <entry key="VTL" value="8" />
         </counts>
@@ -81,21 +82,12 @@
     <favorites_list name="Imooc" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/Course.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="253">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -103,12 +95,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/ListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+            <state relative-caret-position="143">
+              <caret line="84" column="28" lean-forward="true" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -182,8 +184,8 @@
         <option value="$PROJECT_DIR$/src/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/three/collection_map/Course.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/three/collectionmap/student.java" />
-        <option value="$PROJECT_DIR$/src/com/imooc/three/collectionmap/Student.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/three/collectionmap/Course.java" />
+        <option value="$PROJECT_DIR$/src/com/imooc/three/collectionmap/Student.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/three/collectionmap/ListTest.java" />
       </list>
     </option>
@@ -201,9 +203,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-68" />
-    <option name="y" value="-23" />
-    <option name="width" value="1526" />
+    <option name="x" value="-69" />
+    <option name="y" value="-24" />
+    <option name="width" value="1527" />
     <option name="height" value="807" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -214,7 +216,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Android</id>
+            <id>Ali-Check</id>
           </State>
         </selected-state>
       </profile-state>
@@ -228,6 +230,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,7 +279,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,14 +288,14 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="imooc" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556530165391" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../idea_java_learn" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556632115262" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Imooc-test" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="settings.editor.splitter.proportion" value="0.2932862" />
   </component>
   <component name="RecentsManager">
@@ -406,7 +408,8 @@
       <workItem from="1555802899025" duration="53276000" />
       <workItem from="1556068741331" duration="12366000" />
       <workItem from="1556237733940" duration="9341000" />
-      <workItem from="1556326973635" duration="15047000" />
+      <workItem from="1556326973635" duration="20568000" />
+      <workItem from="1556587864855" duration="6929000" />
     </task>
     <task id="LOCAL-00001" summary="1111111111111111111">
       <created>1556198002020</created>
@@ -429,11 +432,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556280730401</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1111111111111111111">
+      <created>1556530391859</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556530391859</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97551000" />
+    <option name="totallyTimeSpent" value="110001000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -445,22 +455,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" weight="0.32983023" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.130962" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19967663" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.2497979" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.35695538" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.29757786" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5012126" side_tool="true" weight="0.2768166" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4987874" visible="true" weight="0.29930797" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4987874" visible="true" weight="0.37543252" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -477,37 +488,6 @@
       <window_info anchor="right" id="Ant Build" order="8" weight="0.2497979" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" weight="0.32983023" />
-      <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.3045326" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.2497979" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.26989618" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5012126" side_tool="true" weight="0.2768166" />
-      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4987874" visible="true" weight="0.3051724" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.3298791" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32871974" />
-      <window_info anchor="right" x="0" y="0" width="176" height="527" id="Documentation" order="0" side_tool="true" weight="0.32900944" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32983023" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32983023" />
-      <window_info anchor="right" id="Palette" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.2497979" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -524,31 +504,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/imooc/two/animal/Initial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Environment/Java/jdk/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/imooc/two/animal/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/imooc/two/polymorphism/learn/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -827,28 +782,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/com/imooc/three/collectionmap/Course.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/com/imooc/three/collectionmap/ListTest.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/com/imooc/three/collectionmap/Student.class" />
     <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/Course.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="253">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Environment/Java/jdk/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2001">
+          <caret line="106" column="57" selection-start-line="106" selection-start-column="53" selection-end-line="106" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="276">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/imooc/three/collectionmap/ListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        <state relative-caret-position="143">
+          <caret line="84" column="28" lean-forward="true" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -856,6 +822,17 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>

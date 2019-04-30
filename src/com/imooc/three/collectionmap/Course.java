@@ -11,5 +11,4 @@ public class Course {
         this.id=id;
         this.name=name;
     }
-
 }
